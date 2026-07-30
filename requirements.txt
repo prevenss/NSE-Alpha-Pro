@@ -1,1 +1,13 @@
-
+pandas
+numpy
+requests
+openpyxl
+sqlalchemy
+yfinance
+pandas-ta
+beautifulsoup4
+lxml
+schedule
+matplotlib
+plotly
+streamlit
